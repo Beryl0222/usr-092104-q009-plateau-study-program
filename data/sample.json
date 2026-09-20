@@ -1,0 +1,9 @@
+{
+  "event_id": "sample-009",
+  "event_type": "PROGRAM_BOOKED",
+  "aggregate_type": "curriculum_revision",
+  "aggregate_id": "aggregate-009",
+  "occurred_at": "2026-09-20T12:00:00+08:00",
+  "version": 1,
+  "summary": "高原研学资源兑现领域样例"
+}
