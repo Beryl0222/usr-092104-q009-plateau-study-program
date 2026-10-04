@@ -1,0 +1,15 @@
+{
+  "event_id": "sample-102",
+  "event_type": "ACTIVITY_VERIFIED",
+  "aggregate_type": "activity_evidence",
+  "aggregate_id": "evidence-2026-0512",
+  "occurred_at": "2026-10-03T11:20:00+08:00",
+  "version": 1,
+  "summary": "第3小组完成高原种业观察环节，证据含观察记录与导师签字",
+  "payload": {
+    "program_id": "program-2026-017",
+    "segment_id": "seg-seed-observation",
+    "group_id": "group-03",
+    "evidence_refs": ["photo-log-8812", "mentor-sign-221"]
+  }
+}

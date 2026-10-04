@@ -1,0 +1,16 @@
+{
+  "event_id": "sample-104",
+  "event_type": "FEE_SETTLED",
+  "aggregate_type": "fee_settlement",
+  "aggregate_id": "fee-2026-017",
+  "occurred_at": "2026-10-05T16:40:00+08:00",
+  "version": 1,
+  "summary": "课程取消后按实结算：仅计已核验的种业观察环节与车辆使用",
+  "payload": {
+    "program_id": "program-2026-017",
+    "lines": [
+      { "item": "种业观察环节课时", "amount": 1200, "evidence_event_id": "sample-102" },
+      { "item": "园区车辆使用", "amount": 800 }
+    ]
+  }
+}

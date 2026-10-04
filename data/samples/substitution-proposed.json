@@ -1,0 +1,15 @@
+{
+  "event_id": "sample-101",
+  "event_type": "SUBSTITUTION_PROPOSED",
+  "aggregate_type": "substitution_proposal",
+  "aggregate_id": "sub-2026-041",
+  "occurred_at": "2026-10-02T09:30:00+08:00",
+  "version": 1,
+  "summary": "山区道路中断，提出以无土栽培实验棚替换试验田观察环节的替代方案",
+  "payload": {
+    "program_id": "program-2026-017",
+    "reason": "道路中断",
+    "affected_segments": ["seg-field-observation"],
+    "equivalence_note": "替代环节覆盖原环节全部学段目标：作物观察记录与生长周期对比，课时、师资与小组配置等值"
+  }
+}

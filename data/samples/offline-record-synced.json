@@ -1,0 +1,14 @@
+{
+  "event_id": "sample-103",
+  "event_type": "OFFLINE_RECORD_SYNCED",
+  "aggregate_type": "offline_sync_batch",
+  "aggregate_id": "sync-2026-1003-a",
+  "occurred_at": "2026-10-03T18:05:00+08:00",
+  "version": 1,
+  "summary": "田间离线记录回传一批，含2条课时与5条农户工时，按幂等键去重",
+  "payload": {
+    "idempotency_key": "device-07-2026-10-03-batch-1",
+    "source_device": "field-tablet-07",
+    "record_count": 7
+  }
+}
